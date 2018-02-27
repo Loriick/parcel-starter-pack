@@ -1,0 +1,16 @@
+{
+  "name": "parcel-starter-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.js"
+  },
+  "author": "Lorick T",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.6.2",
+    "node-sass": "^4.7.2"
+  }
+}
